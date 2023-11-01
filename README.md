@@ -3,4 +3,4 @@ This app was designed to read any video file in a certain folder, and extract th
 
 Link to download the app for free [here](https://drive.google.com/drive/folders/1zUdgqjaBJABLnnurk2ehZVyGq-Sc4QEZ?usp=sharing).
 
-![Interface](Interface V2S.JPG)
+![Interface](InterfaceV2S.JPG)
