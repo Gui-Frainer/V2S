@@ -23,7 +23,7 @@ def show_info(message):
 def V2S ():
     folder = folder_path_entry.get()
     # Create a folder to store the audio files
-    output_folder = folder + 'audios_from_videos/'
+    output_folder = folder + '/audios_from_videos/'
     os.makedirs(output_folder, exist_ok=True)
 
     # List all the files in the folder
